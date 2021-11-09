@@ -7,7 +7,7 @@ Because it's important to provide reproduction when reporting bugs 🪲
 
 Other benefits:
 - 🏆 To organize and showcase the bugs I've found!
-- ⚡️ To create a streamlined reproduction environment
+- ⚡️ To create a streamlined reproduction environment for myself
 - ❤️ To teach, encourage, & exemplify making minimal reproductions
 
 ## Usage
@@ -15,7 +15,6 @@ Other benefits:
 	```
 	/reproductions/<repo-owner>/<repo-name>/<issue-number>/
 	```
-
 	eg. `/reproductions/privatenumber/esbuild-loader/11`
 
 - Each reproduction should contain a `README.md` documenting the bug and link to the issue
