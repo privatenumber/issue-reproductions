@@ -1,0 +1,1 @@
+"use strict";var path=require("path");function _interopDefaultLegacy(t){return t&&typeof t=="object"&&"default"in t?t:{default:t}}var path__default=_interopDefaultLegacy(path);console.log(path__default.default.resolve("."));

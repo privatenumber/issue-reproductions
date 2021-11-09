@@ -1,0 +1,11 @@
+{
+	"homepage": "https://github.com/egoist/rollup-plugin-esbuild/issues/317",
+	"scripts": {
+		"start": "rollup -c rollup.config.js"
+	},
+	"devDependencies": {
+		"esbuild": "^0.13.12",
+		"rollup": "^2.59.0",
+		"rollup-plugin-esbuild": "^4.6.0"
+	}
+}
