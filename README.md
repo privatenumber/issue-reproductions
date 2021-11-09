@@ -12,10 +12,10 @@ Notable benefits:
 
 ## Usage
 - Each reproduction should be organized in the directory structure:
-	```
-	/reproductions/<repo-owner>/<repo-name>/<issue-number>/
-	```
-	eg. `/reproductions/privatenumber/esbuild-loader/11`
+    ```sh
+    /reproductions/<repo-owner>/<repo-name>/<issue-number>/
+    ```
+    eg. `/reproductions/privatenumber/esbuild-loader/11`
 
 - Each reproduction should contain a `README.md` documenting the bug and link to the issue
 - Command to trigger reproduction should be in `npm start`, otherwise, documented in a `README.md` file
