@@ -1,0 +1,21 @@
+{
+	"name": "issue-reproductions",
+	"private": true,
+	"description": "A repository to collect and organize my issue reproductions",
+	"license": "MIT",
+	"repository": "privatenumber/issue-reproductions",
+	"author": {
+		"name": "Hiroki Osame",
+		"email": "hiroki.osame@gmail.com"
+	},
+	"scripts": {
+		"lint": "eslint ."
+	},
+	"devDependencies": {
+		"@pvtnbr/eslint-config": "^0.4.1",
+		"eslint": "^8.2.0"
+	},
+	"eslintConfig": {
+		"extends": "@pvtnbr"
+	}
+}
