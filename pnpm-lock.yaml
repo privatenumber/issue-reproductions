@@ -1,11 +1,11 @@
 lockfileVersion: 5.3
 
 specifiers:
-  '@pvtnbr/eslint-config': ^0.4.1
+  '@pvtnbr/eslint-config': ^0.4.2
   eslint: ^8.2.0
 
 devDependencies:
-  '@pvtnbr/eslint-config': 0.4.1_eslint@8.2.0
+  '@pvtnbr/eslint-config': 0.4.2_eslint@8.2.0
   eslint: 8.2.0
 
 packages:
@@ -290,8 +290,8 @@ packages:
       fastq: 1.13.0
     dev: true
 
-  /@pvtnbr/eslint-config/0.4.1_eslint@8.2.0:
-    resolution: {integrity: sha512-fiBueh4WLjWmXeWVUTC3UOJx/t1DGfQeFNShaCvfECMPMaKT7EUMWy7etTWHAu82ey7zKOO5V98+7FwvjCWJUQ==}
+  /@pvtnbr/eslint-config/0.4.2_eslint@8.2.0:
+    resolution: {integrity: sha512-Gvb/u3jPnTK+L0wc7tTUu8JOas5SZDTkQmZgVAetikc9dEkm3nKgDKKSWc7Eg0QohHPq0f2eZhCMJGsj8pFQ9g==}
     peerDependencies:
       eslint: ^7.15.0
     dependencies:
