@@ -1,0 +1,11 @@
+{
+	"scripts": {
+		"start": "webpack --config webpack.config"
+	},
+	"devDependencies": {
+		"esbuild": "^0.7.7",
+		"webpack": "^4.44.2",
+		"webpack-cli": "^3.3.12",
+		"webpack-sources": "^2.0.0"
+	}
+}
