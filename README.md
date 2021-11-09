@@ -5,10 +5,10 @@ A repository to collect and organize my issue reproductions.
 ## Why?
 Because it's important to provide reproduction when reporting bugs 🪲
 
-Other benefits:
-- 🏆 To organize and showcase the bugs I've found!
-- ⚡️ To create a streamlined reproduction environment for myself
-- ❤️ To teach, encourage, & exemplify making minimal reproductions
+Notable benefits:
+- 🏆 Organize and showcase the bugs I've found!
+- ⚡️ Create a streamlined reproduction environment for myself
+- ❤️ Teach, encourage, & exemplify making minimal reproductions
 
 ## Usage
 - Each reproduction should be organized in the directory structure:
