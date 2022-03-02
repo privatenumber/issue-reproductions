@@ -1,0 +1,13 @@
+{
+	"type": "module",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"@unocss/core": "^0.27.1",
+		"@unocss/transformer-directives": "^0.27.1",
+		"magic-string-extra": "^0.1.2",
+		"prettier": "^2.5.1",
+		"unocss": "^0.27.1"
+	}
+}
