@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Dependency directories
+node_modules/
+
+# Output of 'npm pack'
+*.tgz
+
+# dotenv environment variables file
+.env
+.env.test
+
+# VSCode
+.vscode
+
+# Distribution
+dist
