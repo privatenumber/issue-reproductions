@@ -1,0 +1,9 @@
+{
+	"scripts": {
+		"start": "rollup -c"
+	},
+	"devDependencies": {
+		"@rollup/plugin-commonjs": "^22.0.0",
+		"rollup": "^2.70.2"
+	}
+}
