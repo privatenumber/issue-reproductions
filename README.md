@@ -26,6 +26,7 @@ Notable benefits:
 <!-- bugIndex:start -->
 - [egoist/esbuild-register](https://github.com/egoist/esbuild-register) • [Issue #39](https://github.com/egoist/esbuild-register/issues/39) — [Reproduction](reproductions/egoist/esbuild-register/39)
 - [egoist/rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild) • [Issue #317](https://github.com/egoist/rollup-plugin-esbuild/issues/317) — [Reproduction](reproductions/egoist/rollup-plugin-esbuild/317)
+- [rollup/plugins](https://github.com/rollup/plugins) • [Issue #0](https://github.com/rollup/plugins/issues/0) — [Reproduction](reproductions/rollup/plugins/0)
 - [rollup/plugins](https://github.com/rollup/plugins) • [Issue #1177](https://github.com/rollup/plugins/issues/1177) — [Reproduction](reproductions/rollup/plugins/1177)
 - [unocss/unocss](https://github.com/unocss/unocss) • [Issue #1](https://github.com/unocss/unocss/issues/1) — [Reproduction](reproductions/unocss/unocss/1)
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) • [Issue #587](https://github.com/vuejs/vitepress/issues/587) — [Reproduction](reproductions/vuejs/vitepress/587)
