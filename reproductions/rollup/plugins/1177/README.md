@@ -1,5 +1,6 @@
 ## Issue
 
+https://github.com/rollup/plugins/issues/1177
 
 ### Input
 
