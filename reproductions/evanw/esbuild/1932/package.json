@@ -1,0 +1,9 @@
+{
+	"homepage": "https://github.com/evanw/esbuild/issues/1932",
+	"scripts": {
+		"start": "node build.mjs && node dist/index.js"
+	},
+	"devDependencies": {
+		"esbuild": "^0.14.42"
+	}
+}
