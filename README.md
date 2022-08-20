@@ -27,6 +27,7 @@ Notable benefits:
 - [egoist/esbuild-register](https://github.com/egoist/esbuild-register) • [Issue #39](https://github.com/egoist/esbuild-register/issues/39) — [Reproduction](reproductions/egoist/esbuild-register/39)
 - [egoist/rollup-plugin-esbuild](https://github.com/egoist/rollup-plugin-esbuild) • [Issue #317](https://github.com/egoist/rollup-plugin-esbuild/issues/317) — [Reproduction](reproductions/egoist/rollup-plugin-esbuild/317)
 - [evanw/esbuild](https://github.com/evanw/esbuild) • [Issue #1932](https://github.com/evanw/esbuild/issues/1932) — [Reproduction](reproductions/evanw/esbuild/1932)
+- [nodejs/node](https://github.com/nodejs/node) • [Issue #44316](https://github.com/nodejs/node/issues/44316) — [Reproduction](reproductions/nodejs/node/44316)
 - [rollup/plugins](https://github.com/rollup/plugins) • [Issue #1177](https://github.com/rollup/plugins/issues/1177) — [Reproduction](reproductions/rollup/plugins/1177)
 - [rollup/plugins](https://github.com/rollup/plugins) • [Issue #1178](https://github.com/rollup/plugins/issues/1178) — [Reproduction](reproductions/rollup/plugins/1178)
 - [unocss/unocss](https://github.com/unocss/unocss) • [Issue #1](https://github.com/unocss/unocss/issues/1) — [Reproduction](reproductions/unocss/unocss/1)
