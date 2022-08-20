@@ -6,4 +6,4 @@ logs
 *.log
 
 # Node dependency directory
-node_modules
+/node_modules
